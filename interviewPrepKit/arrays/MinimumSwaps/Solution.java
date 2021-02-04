@@ -1,4 +1,4 @@
-package MinimumSwaps;
+package interviewPrepKit.arrays.MinimumSwaps;
 
 public class Solution {
 

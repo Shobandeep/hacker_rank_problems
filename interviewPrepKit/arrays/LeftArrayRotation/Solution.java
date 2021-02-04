@@ -1,4 +1,4 @@
-package LeftArrayRotation;
+package interviewPrepKit.arrays.LeftArrayRotation;
 
 public class Solution {
 

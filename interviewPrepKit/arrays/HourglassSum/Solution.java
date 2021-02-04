@@ -1,4 +1,4 @@
-package HourglassSum;
+package interviewPrepKit.arrays.HourglassSum;
 
 public class Solution {
 

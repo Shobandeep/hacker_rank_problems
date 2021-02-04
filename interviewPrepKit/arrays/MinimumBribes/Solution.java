@@ -1,4 +1,4 @@
-package MinimumBribes;
+package interviewPrepKit.arrays.MinimumBribes;
 
 public class Solution {
 
